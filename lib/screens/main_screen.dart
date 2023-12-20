@@ -45,7 +45,7 @@ class _MainScreenState extends State<MainScreen> {
             BottomNavigationBarItem(icon: Icon(CupertinoIcons.square_on_square), label: "동네생활"),
             BottomNavigationBarItem(icon: Icon(CupertinoIcons.placemark), label: "내 근처"),
             BottomNavigationBarItem(icon: Icon(CupertinoIcons.chat_bubble_2), label: "채팅"),
-            BottomNavigationBarItem(icon: Icon(CupertinoIcons.person), label: "이웃생활"),
+            BottomNavigationBarItem(icon: Icon(CupertinoIcons.person), label: "나의 당근"),
         ],
       ),
     );
